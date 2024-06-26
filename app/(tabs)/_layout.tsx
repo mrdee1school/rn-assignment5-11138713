@@ -59,7 +59,7 @@ export default function TabLayout() {
             ),
           }}
         />
-        {/* <Tabs.Screen
+        <Tabs.Screen
           name="myCards"
           options={{
             title: "My Cards",
@@ -88,7 +88,7 @@ export default function TabLayout() {
               />
             ),
           }}
-        /> */}
+        />
         <Tabs.Screen
           name="settings"
           options={{
