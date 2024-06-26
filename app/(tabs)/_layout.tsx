@@ -88,7 +88,7 @@ export default function TabLayout() {
               />
             ),
           }}
-        />
+        /> */}
         <Tabs.Screen
           name="settings"
           options={{
@@ -103,7 +103,7 @@ export default function TabLayout() {
               />
             ),
           }}
-        /> */}
+        /> 
       </Tabs>
     </>
   );
